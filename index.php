@@ -1,3 +1,3 @@
 <?php
 
-header('Location: newstimes\index.html');
+header('Location: index.html');
